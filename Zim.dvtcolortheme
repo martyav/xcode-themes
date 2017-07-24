@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>UbuntuMono-Bold - 14.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>UbuntuMono-Bold - 14.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.255 0.801 0.27 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>UbuntuMono-Bold - 14.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>UbuntuMono-Bold - 14.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>UbuntuMono-Bold - 14.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.282105 0.187726 0.00401015 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.420701 0.189216 0.346376 1</string>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.08 0.08 0.08 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.1536 0.1536 0.1536 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 10.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.AppleSystemUIFontItalic - 10.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>1 1 1 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.255 0.392 1 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.AppleSystemUIFont - 10.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.AppleSystemUIFont - 10.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>1 1 1 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.AppleSystemUIFont - 14.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.AppleSystemUIFont - 24.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.AppleSystemUIFont - 18.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.AppleSystemUIFontBold - 10.0</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.215098 0.173359 0.410522 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0 0 0 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.198222 0.198222 0.198222 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.29228 0.280247 0.251752 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.873202 0.700472 0.422453 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.976192 0.808905 0.95737 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.695741 1 0.664032 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.186623 0.777756 0.102952 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.186623 0.777756 0.102952 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.270588 1 0.509804 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.272953 1 0.509248 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.464404 0.901087 0.18141 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.272953 1 0.509248 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.680724 0.501067 0.998937 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.272953 1 0.509248 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.135274 1 0.0547789 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.814193 0 0.732379 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.687706 1 0.212799 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.272953 1 0.509248 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.518111 0.808088 0.181521 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.272953 1 0.509248 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.86858 0.995385 0.870167 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.974562 0.181288 0.445069 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.769821 1 0.931711 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.194539 0.777302 0.0869264 1</string>
+		<key>xcode.syntax.string</key>
+		<string>1 1 0.391713 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.996162 0.898413 0.0391169 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.character</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>UbuntuMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>UbuntuMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>UbuntuMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>UbuntuMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>UbuntuMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>UbuntuMono-Bold - 16.0</string>
+		<key>xcode.syntax.number</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.string</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+		<key>xcode.syntax.url</key>
+		<string>UbuntuMono-Regular - 16.0</string>
+	</dict>
+</dict>
+</plist>
