@@ -19,9 +19,9 @@
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>Menlo-Regular - 14.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.922825 0.975061 0.954265 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>Menlo-Bold - 14.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
