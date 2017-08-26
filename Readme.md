@@ -108,6 +108,10 @@ Xcode Themes
 * Sidewalk Chalk
 
   ![SidewalkChalk][image-27]
+  
+* Softserve Twilight: A dark theme with pastel text and cursive keywords. Inspired by Matt MacFarland's article, <a href = "https://medium.com/@docodemore/an-alternative-to-operator-mono-font-6e5d040e1c7e">"An Alternative to Operator Mono Font"</a>. By [martyav][24].
+
+  ![SoftserveTwilight][image-37]
 
 * Solarized Dark and Light: Both themes are based off the amazing work for the original [Solarized theme][12]. Github user [varikin][13] took the Solarized palette and made the [Solarize Dark theme][14] for Xcode 4. I forked his repository and added the Solarize Light theme as well. I'm including both in this repository, but both have been pushed back upstream to his repo.
 
@@ -148,13 +152,13 @@ Installation
 
 ### Using the installation script
 
-	$ git clone https://github.com/hdoria/xcode-themes.git
+	$ git clone https://github.com/martyav/xcode-themes.git
 	$ cd xcode-themes
 	$ ./install.sh # And then restart Xcode
 
 ### Alternative way
 
-	$ git clone https://github.com/hdoria/xcode-themes.git
+	$ git clone https://github.com/martyav/xcode-themes.git
 	$ cd xcode-themes
 	$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 	$ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
@@ -185,6 +189,7 @@ Find and install [ThemeInstaller][23] app from the Mac App Store. Open theme you
 [21]:	https://github.com/cargath/WWDC2016-Xcode-Color-Scheme
 [22]:	http://justyo.co/
 [23]:	https://itunes.apple.com/app/themeinstaller/id1148208665
+[24]:	https://github.com/martyav
 
 [image-1]:	http://s11.postimage.org/n1htzhccj/Blackboard.png
 [image-2]:	http://s11.postimage.org/m0hlacvcz/Coal_Graal.png
@@ -222,3 +227,4 @@ Find and install [ThemeInstaller][23] app from the Mac App Store. Open theme you
 [image-34]:	http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
 [image-35]:	https://github.com/cargath/WWDC2016-Xcode-Color-Scheme/raw/master/preview.png
 [image-36]:	http://s22.postimg.org/dbtwkc0ip/Yo_color_theme.png
+[image-37]:	http://i63.tinypic.com/282mkxy.png
